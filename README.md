@@ -1,3 +1,2 @@
 # Hello-world
-print("I am 16 years old")
-print("My name is Samuel Tirado")
+My name is Samuel Tirado and I am 16 years old
